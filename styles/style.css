@@ -3,7 +3,7 @@
     background-color: aquamarine;
     display: flex;
     gap: 20px; 
-    justify-content: center;
+    justify-content: space-between;
 }
 .child{
     border: 2px solid red;
