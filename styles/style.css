@@ -1,0 +1,19 @@
+.parent{
+      padding: 25px; 
+    background-color: aquamarine;
+    display: flex;
+    gap: 20px; 
+    justify-content: center;
+}
+.child{
+    border: 2px solid red;
+    background-color: blueviolet;
+    padding: 15px;
+    font-size: 30px;
+    /* margin:10px ; */
+    /* display: inline;  */
+    /* width: 400px; */
+}
+section div{
+    /* display: inline; */
+}
